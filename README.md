@@ -154,7 +154,7 @@ Hướng dẫn sử dụng lệnh SCP
 
 
   - Giao diện chính phần mềm:
-          <img src="http://i.imgur.com/NqimEhz.png">
+         <img src="http://i.imgur.com/NqimEhz.png">
 
 
    => Từ giao diện phần mềm copy file từ thư mục trong  máy windows sang máy thư mục trong máy linux . OK đợi đến lúc thành công
